@@ -20,6 +20,3 @@ change-d84f30bd0c90)
 
 Join the telegram [support chat 💬](https://t.me/DCAD_Entry_Portal) to ask questions.
 
----
-
-🙏 Please check out our [Gitcoin grant](https://gitcoin.co/grants/2851/scaffold-eth) too!
