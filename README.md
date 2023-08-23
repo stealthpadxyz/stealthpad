@@ -1,10 +1,8 @@
-# OnlyMoons
+# StealthPad
 
 Originally based on [scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - original README is included below.
 
-## Development
 
-Anyone is free to contribute. If you wish to contribute, fork the `develop` branch and submit a pull request.
 
 ## License
 
@@ -20,7 +18,7 @@ change-d84f30bd0c90)
 
 # 💬 Support Chat
 
-Join the telegram [support chat 💬](https://t.me/joinchat/KByvmRe5wkR-8F_zz6AjpA) to ask questions.
+Join the telegram [support chat 💬](https://t.me/DCAD_Entry_Portal) to ask questions.
 
 ---
 
